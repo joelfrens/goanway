@@ -1,0 +1,17 @@
+{
+  "name": "goanway",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Joel Fernandes <joelfrens@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joelfrens/goanway",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
